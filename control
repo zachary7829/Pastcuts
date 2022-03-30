@@ -1,0 +1,10 @@
+Package: com.zachary7829.pastcuts
+Name: Pastcuts
+Author: zachary7829
+Description: Import iOS 15 shortcuts on iOS 13
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 13.0), ws.hbang.common
+Conflicts: firmware (>= 15.0)
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.2
