@@ -7,4 +7,4 @@ Conflicts: firmware (>= 15.0)
 Maintainer: zachary7829
 Architecture: iphoneos-arm
 Section: Tweaks
-Version: 1.2
+Version: 1.2.0
